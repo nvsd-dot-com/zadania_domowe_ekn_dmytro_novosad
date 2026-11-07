@@ -1,5 +1,8 @@
 import pandas as pd # Pandas dla analizy danych
 
+# Student: Dmytro Novosad
+# Nr albumu: 188066
+
 # Dane z tabeli
 data = {
     'Company': [
