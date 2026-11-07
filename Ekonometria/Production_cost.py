@@ -1,6 +1,9 @@
 import numpy as np
 from scipy.stats import linregress
 
+# Student: Dmytro Novosad
+# Nr albumu: 188066
+
 # Wprowadzenie danych z tabeli
 # X - Volume (wielkość produkcji)
 # Y - Cost (całkowity koszt)
