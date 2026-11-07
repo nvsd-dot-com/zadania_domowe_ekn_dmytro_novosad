@@ -1,5 +1,8 @@
 import pandas as pd # Biblioteka Pandas dla analizy danych
 
+# Student: Dmytro Novosad
+# Nr albumu: 188066
+
 # 1. Definicja danych z tabeli
 # Przyjmujemy środki przedziałów (midpoints) do obliczenia średniej:
 # "poniżej 25": zakładamy przedział 15-24 lata -> środek = (15+24)/2 = 19.5
